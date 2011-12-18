@@ -1,12 +1,14 @@
 #Acknowledgements #
 ## Mark Curphey ##
 ## Bill Hau ##
+Mr CHOW is my hero
 
 # Table of Contents #
 
 #Foreword #
 Target of 3 pages
 This space is reserved for the author of the foreword. 
+M
 
 #Introduction #
 ## The Business Case for Security ##
