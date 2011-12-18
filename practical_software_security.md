@@ -3,6 +3,7 @@
 ## Bill Hau ##
 Suck my Chinese balls mutha fucka! 
 ONly with sweet and sour sauce 
+and curry
 
 # Table of Contents #
 
