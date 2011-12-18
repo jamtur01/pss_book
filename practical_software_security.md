@@ -1,8 +1,7 @@
 #Acknowledgements #
 ## Mark Curphey ##
 ## Bill Hau ##
-Mr CHOW is my hero
-i love dean 
+Suck my Chinese balls mutha fucka!
 
 # Table of Contents #
 
