@@ -54,12 +54,15 @@ This section will provide project leaders and development managers a blue-print 
 Target of 200 pages
 ## Managing Sensitive Data ##
 ## Practical Cryptographic Key Management ##
-## Federated Authentication (OAuth & FaceBook Connect)
-## Designing User Management Systems ##
-## Connecting to and from web services across the Internet ##
-## Client Side (Browser + Mobile) Security##
-## Preventing bots and making sure users are humans ##
-## Signing Code ##
+## Federated Authentication (OAuth & FaceBook Connect) ## 
+## Designing User Management Systems (passwords, password resets & profile management) ##
+## Authorization Models ## 
+## Avoiding Input Validation Vulnerabilities ## 
+## Connecting Web Services Across the Internet ##
+## Safely Storing Data on a Client (Browser + Mobile) ##
+## Preventing Bots and Making Sure Your Users are Humans ##
+## Signing Code and Distributing Applications ## 
 ## Setting up a Cloud Deployment Environment ##
+## Auditing & Logging ## 
 
 # Appendix #
