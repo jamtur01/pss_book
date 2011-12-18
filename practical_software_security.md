@@ -52,16 +52,14 @@ This section will provide project leaders and development managers a blue-print 
 
 # Securing Common Scenarios Across Mobile, Web and the Cloud #
 Target of 200 pages
-## Storing personal data ##
-## Social Authentication with OAuth and FaceBook Connect
-## Managing credit cards ##
-## User Registration ##
-## Password Reset Systems ##
-## Security of REST API’s ##
-## Exposing web services end-points across the Internet ##
+## Managing Sensitive Data ##
+## Practical Cryptographic Key Management ##
+## Federated Authentication (OAuth & FaceBook Connect)
+## Designing User Management Systems ##
+## Connecting to and from web services across the Internet ##
+## Client Side (Browser + Mobile) Security##
 ## Preventing bots and making sure users are humans ##
-## Signing mobile code ##
-## Setting up a cloud deployment environment ##
-## Consuming upstream data from an untrusted 3rd party ##
+## Signing Code ##
+## Setting up a Cloud Deployment Environment ##
 
 # Appendix #
