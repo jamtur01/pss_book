@@ -2,8 +2,13 @@
 ## Mark Curphey ##
 ## Bill Hau ##
 Suck my Chinese balls mutha fucka! 
+<<<<<<< HEAD
 ONly with sweet and sour sauce 
 and curry
+=======
+ONly with sweet and sour sauce
+Shitake mushrooms
+>>>>>>> 67ec42a65229483ba997c23278005bad38100869
 
 # Table of Contents #
 
