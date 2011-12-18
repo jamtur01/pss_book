@@ -7,22 +7,28 @@ This space is reserved for the author of the foreword.
 testing 123, blah blah 
 
 #Introduction #
-## The Business Case for Security
-## Case studies
+## The Business Case for Security ##
+lots of fud…. lots of $$$ 
+## Case studies ##
+in the press
 ## Security as a software quality attribute
 ## Security as a business enabler
 ## Know your enemy
 ## Know the attack vectors
 
 #Security Concepts #
-## Cryptography 101
+## Cryptography 101 ##
+DES
+***hashes***
 ## Authentication
 ## Authorization
 ## Configuration Management
 ## Audit and Logging
 ## Data Validation
 ## Data Security (in transport and storage)
-## Session Management
+## Session Management ##
+cookies
+and things
 ## Error Handling
 
 # Tools and Technologies #
