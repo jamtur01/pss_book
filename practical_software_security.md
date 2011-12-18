@@ -1,7 +1,8 @@
 #Acknowledgements #
 ## Mark Curphey ##
 ## Bill Hau ##
-Suck my Chinese balls mutha fucka!
+Suck my Chinese balls mutha fucka! 
+ONly with sweet and sour sauce 
 
 # Table of Contents #
 
