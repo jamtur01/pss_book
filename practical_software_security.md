@@ -7,11 +7,9 @@
 #Foreword #
 Target of 3 pages
 This space is reserved for the author of the foreword. 
-testing 123, blah blah 
 
 #Introduction #
 ## The Business Case for Security ##
-lots of fud…. lots of $$$ 
 ## Case studies ##
 in the press
 ## Security as a software quality attribute
@@ -21,9 +19,6 @@ in the press
 
 #Security Concepts #
 ## Cryptography 101 ##
-DES
-***hashes***
-the lazy dog ran over the fox
 ## Authentication
 ## Authorization
 ## Configuration Management
@@ -31,8 +26,6 @@ the lazy dog ran over the fox
 ## Data Validation
 ## Data Security (in transport and storage)
 ## Session Management ##
-cookies
-and things
 ## Error Handling
 
 # Tools and Technologies #
