@@ -30,9 +30,22 @@ in the press
 # Tools and Technologies #
 Target of 80 pages
 ## Fundamentals ##
+### HTTP ###
+### SSL ###
+### HTML5 ###
 ## Development Frameworks & Languages ##
+### Java ###
+### .NET ###
+### Ruby on Rails ###
+### Node.JS ##
 ##Mobile ##
+### iOS ###
+### Android ###
+### HTML5 (Phone Gap, Sencha etc.))
 ## Cloud ##
+### AWS ###
+### Heroku ###
+### Windows Azure ###
 
 # Building a Software Security Program #
 Target of 120 pages
