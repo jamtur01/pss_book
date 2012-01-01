@@ -10,11 +10,115 @@ This space is reserved for the author of the foreword. Target 3 pages. Target Ch
 #Introduction #
 Target of 40 pages
 ## The Business Case for Security ##
-## Case studies ##
+
+For a long time the information security “profession” has been owned by the networking, operating systems and policy specialist.  The evolution of the profession itself mirrors the development of the Internet from a mainly network centric proposition to a cloud driven platform.  Today we have a much more mature understanding of how we protect networks with routers, firewalls and Network Intrusion prevention systems. The need to lock down/harden the operating systems we deploy and then ensure that we strategically protect our systems with Security policies, standards and procedures that reflect the risk acceptance level of an organization or entity.
+
+While the rest of the information security profession has matured, the area of software security has only begun to be addressed. The traditional security wrapper around software security has largely been driven by Network / Operations and policy specialists who do not understand how applications are built in the real world. As a result the majority of current software security standards ad policies are not relevant to the fast moving and changing software development practices. 
+
+There is now a definite need for the Software Engineering teams to help bridge this gap and take the lead in defining and maturing security requirements.
+
+This section sets the outline for why this book matters to software developers and why security is relevant to any business.  The audience will learn to understand why attributes such as trust, confidence and safety of business solutions are even more crucial in today's online environment.
+
+**Why does software security matter to businesses ?**
+
+As the world moves further down the path of an on line economy, the requirement for faster deployments of larger more complex interlinked systems is becoming the norm. Forrester predicts that just in the US, online retail sales will grow at a 10% compounded annual growth rate (CAGR) between 2010 – 2015, reaching an expected $279 billion from $157billion in 2009. This figure does not include the volume of b2b transactions and intangible values relating to the defense and utility use of the internet to transmit data.
+
+In the commercial environment, trade and security are not mutually exclusive.  People and entities trade with each other based on many factors including trust, confidence and security.  If consumers and organizations do not feel that they trust the entity they are seeking to purchase goods or services from they will not do business with them. 
+
+( --- reference from RSA down load - online security inspires confidence ------ do i need to para phrase or can i just leave sections from the report in the book ? )
+
+" In one survey after another regarding the topic, security is most often cited as the primary reason some consumers are hesitant to shop online; they are afraid of submitting personal and financial information over the Internet.
+Consumer confidence can be directly attributed to increased transactions. In order to gain that confidence, providers of an online website and portal – whether offered through a retailer, bank, or healthcare organization – must consider security a key driver to adoption.
+
+To demonstrate, one major U.K. bank that deployed strong authentication to their online users reported a 20 percent increase in the number of transactions performed online only one month after the system was launched.
+RSA found that consumer confidence and the willingness to transact online was clearly correlated. When consumers were asked, in general, how stronger security would impact their confidence in transacting online, 92 percent of consumers stated they would be more confident, with 53 percent stating they would be significantly more confident and 39 percent somewhat more confident.
+Among each region surveyed, the impact of stronger security on confidence seemed to resonate most among respondents from Latin America where 74 percent stated they would be “ significantly” more confident. This is much higher compared to other regions; among respondents, 42 percent in the U.S., 50 percent in Australia, and 46 percent in Asia stated they would be “significantly” more confident. "
+
+
+**The reality of Software security **
+
+For a long time consumers have had an implied trust that any one trading on the internet have the best security built in from the get go. 
+
+The authors experience and recent events from Hacktivist groups know this " ain't necessarily so ."
+
+High profile security breaches have been well documented in the press and the Ponemon Institute, a research organization in Traverse City, Michigan has estimated the cost of the 5 most expensive breaches in a report titled " bill to get actual name and rewrite section http://www.dataexpress.com/blog/?p=89 5 Most Expensive Data Breaches – so far May 10, 2011 | Author Wilson B. (Sonny) Snipes
+"
+
+5. US Veterans Affairs – $25-$30 million – the names, birth dates, and Social Security numbers of 17.5 million military veterans and personnel were stolen in 2006 from a laptop that a Department of Veterans Affairs employee had taken home. The costs to the VA included money for running call centers, sending out mailings, and paying for a year of a credit-monitoring service for victims. 
+
+4. Heartland Payment Systems – $140 million – Heartland Payment Systems, a payment processor based in Princeton, N.J., was the victim of a major cyber attack in 2008.  Criminals installed spying software on the company’s computer network and stole the numbers of as many as 100 million credit and debit cards. Albert Gonzales, a hacker from Miami, was accused of playing a critical role in the Heartland hack, as well as other massive data breaches of companies including retailer TJX, 7-Eleven, Inc., and the grocery chain Hannaford Bros. Co. Inc. In 2010, Gonzales was sentenced to 20 years in federal prison. The company paid about $140 million in fines and settlements but recovered tens of millions through insurance, Business Insurance reports.
+
+3. TJX – $256 million or more - the Framingham, Mass., retailer that owns national chains including TJ Maxx and Marshalls, estimated that a 2007 data breach would cost the company about $25 million. But in the end, the total cost was at least 10 times as high. Cyber criminals took more than 45 million credit and debit card numbers, some of which were used later to buy millions of dollars in electronics from Wal-Mart and elsewhere. Mr. Gonzales, who played a major role in the Heartland hack, was linked to this cyber attack as well.
+
+2. and 1. The surprise - who would have thought that the most expensive would be a tie?  I would have bet money that the most expensive would have been a large financial institution, or money changer.  Nope, turns out the tie is between an entertainment company and an advertising company.
+Epsilon – to be determined – in March 2011, hackers stole millions of names and e-mail addresses from the Dallas-based marketing firm. Epsilon handles e-mail lists for major retailers
+and banks like Best Buy, JPMorgan, TiVo, Walgreen, and Kroger. A study by CyberFactors, a cyber risk analytics company, estimates that the breach could cost between $225 million and $4 billion, depending on what happens with the stolen data, Business Wire reports. Mr. Ponemon offers a lower estimate: at least $100 million, with most of the lost costs going toward losing customers due to a damaged reputation. Ponemon says that because the stolen data was e-mail information, the costs won’t be as high as if financial information had
+been stolen.
+
+Sony – to be determined – the Sony data breach, which exposed information from more than 100 million user accounts in April, could prove to be the mostly costly data breach of all time. Hackers obtained personal information, including credit, debit, and bank account numbers in some instances, of PlayStation Network users and Sony Online Entertainment users. After discovering there had been a breach, Sony shut down both networks temporarily. Ponemon estimates that the breach could cost Sony and credit card issuers up to a total of $2 billion.
+Relative to their overall revenues and assets, the loses here are big, yet not staggering.  Nobody went out of business.  The thought to ponder is “what would it cost my company were we to lose sensitive information?”  
+---------- end of section that needs to be reworked -----
+
+These reported breaches represent only a small percentage of the actual breaches that are occurring.  In the authors' experience , when organizations learn of breaches their primary concern is to fix the issue but not prosecute. Hence, many breaches are never publicly disclosed.  The organizations involved wish to avoid the bad publicity this would entail and in more cases than not, organizations do not have enough forensic evidence to enable a sucessful prosecution in the first place.
+
+The need to secure organizations' online presence really came to the forefront of business issues in 2011.  The Hacktivism movement has changed the risk profile of theoretical attacks on organizations to actual attacks. As organizations rush to develop mobile applications, cloud solutions and build a social presence, the problem has only increased a thousand fold. In the online world it is the applications that software developers build that are the targets on the front line.
+
+
+**Where is the disconnect? I thought we had built secure applications!!
+**
+
+The disconnect can be summarized as follows
+
+*The business not understanding and defining security requirements or the development teams not understanding how to build secure applications in the absence of explicit security requirements*
+
+Most businesses have some form of software development process to build software applications from requirements, architecture and design, development, testing and deployment.  
+
+When you overlay the security process onto the software development process the majority of organizations however have very immature, antiquated and inefficient processes in place. 
+
+The typical use case is that businesses will test for security as part of the testing phase or before they go into production. They will engage with an internal or external penetration testing company to “ensure” that the designed system does not have any significant security issues before promoting to the live environment.  
+
+The business may decide to test the application on a yearly basis or on major upgrades dependent on legal and regulatory requirements. Each year the testers will find a similiar set of issues or new ones for the development team to fix. 
+Nowhere in this process flow does the business define the security requirements for the application so the developers can build against those requirements. Furthermore, some organizations may state they have defined security requirements but the documentation is at such a high level and non-prescriptive that it means nothing to a software developer.  It is like a building Fort Knox without a plan or architecture. This approach to security is very expensive and does not fix the source of the issue.
+
+There are many different models and processes on how to build security into the software development life cycle, the later chapters will touch on these in more detail. 
+
 ## Security as a software quality attribute
-## Security as a business enabler
-## Know your enemy
+
+## Know your enemy ##
+In order for developers to protect the applications which they build they need to have an understanding of who and what they are trying to defend against. This section will group the type of hackers there are and explain why they want to attack they systems they build.
+
+The ancient Chinese General Sun Tzu's teaches us that one must "know your enemy" before going into battle.  If "you know your enemy and know yourself, you need not fear the result of a hundred battles."  Sun Tzu also cautioned, "If you know yourself but not the enemy, for every victory gained you will also suffer a defeat."
+
+The majority of software developers believe that people are well intentioned and would not look to exploit bugs or architectural flaws in systems for self gain. To protect the code, developers need to change their perspective and understanding of malicious users.
+
+These malicious users can be grouped into many different categories, here we have chosen to group them by level of sophistication starting with the least 
+
+Script kiddies - these are users that search the internet for hacking tools to attack targets on the internet. They for the most part are unable to script their own attacks and do not fully understand the technical details of the attack they launch using the tools.  The attacks are very verbose and noisy as a result. These motivation behind such attackers are for attention and recognition amongst their "peers" and in the press.( expand with examples )
+
+Hackitvist - this group of users came to prominence in 2011, they attack commercial and government organizations on the internet for a political or social cause.  The techniques used can be a combination of tool and custom script bases depending on the attack they are trying to execute.  In the majority of cases once these groups publicly announce that they are going to hack a victim and release confidential data, they already have.
+
+Professional Hackers - these users have a higher level of technical skill in breaching computer systems.  The motive normally is financial and it can be for direct self gain or provision of services to their customers. These could be corporations or individuals looking to obtain confidential data from design plans and new production launches through to financial data to gain competitive advantage.  99% of organizations targeted by professional hackers will not know if and when they have been breached. ( Expand with examples )
+
+
+Foreign Countries - while these are not individual users we have grouped them as such here as the behavioral patterns matches them acting as such.  This group have the most resources to devote to offensive or defensive capabilities. Certain countries have a deeper and more advanced capability than others, not that any country would publicly admit to this. The motivation here can be for commercial , military and diplomatic gain. Again here the majority of organizations and countries would not know if they have been breached. ( Expand with Examples )
+  
+
+
 ## Know the attack vectors
+To be able to protect your applications you need to know how they will be attacked. This section will describe the most common attack vectors so developers understand how to architect and code defend against them.
+
+Social Engineering - the weakest link in the majority of most systems are the people that use, operate, maintain, develop and support the systems.  Social engineering attacks target the human component of the system to illicet sensitive data such as user name and passwords to gain access to the systems or to harvest enough information to create a plan of attack. The attack can be perpetrated by 
+
+Network attacks
+
+Web based attacks
+
+Mobile based attacks
+
+De compiling the application 
+
+
+
 
 #Security Concepts #
 Target of 60 pages
