@@ -151,6 +151,7 @@ This space is reserved for the author of the foreword. We are planning to ask Ch
 <!-- This section only to be edited by TBD -->
 #### Code Execution ####
 #### Cryptography ####
+#### User Management ####
 #### Authentication ####
 #### Authorization ####
 #### Configuration Management ####
@@ -164,6 +165,7 @@ This space is reserved for the author of the foreword. We are planning to ask Ch
 <!-- This section only to be edited by Pravir Chandra --> 
 #### Code Execution ####
 #### Cryptography ####
+#### User Management ####
 #### Authentication ####
 #### Authorization ####
 #### Configuration Management ####
@@ -177,6 +179,7 @@ This space is reserved for the author of the foreword. We are planning to ask Ch
 <!-- This section only to be edited by David Rook -->
 #### Code Execution ####
 #### Cryptography ####
+#### User Management ####
 #### Authentication ####
 #### Authorization ####
 #### Configuration Management ####
@@ -190,6 +193,7 @@ This space is reserved for the author of the foreword. We are planning to ask Ch
 <!-- This section only to be edited by Gareth Hayes -->
 #### Code Execution ####
 #### Cryptography ####
+#### User Management ####
 #### Authentication ####
 #### Authorization ####
 #### Configuration Management ####
@@ -203,6 +207,7 @@ This space is reserved for the author of the foreword. We are planning to ask Ch
 <!-- This section only to be edited by Mike DeLibero -->
 #### Code Execution ####
 #### Cryptography ####
+#### User Management ####
 #### Authentication ####
 #### Authorization ####
 #### Configuration Management ####
@@ -214,8 +219,63 @@ This space is reserved for the author of the foreword. We are planning to ask Ch
 
 ### Ruby on Rails ###
 <!-- This section only to be edited by Mark Curphey -->
+This section is based on the official Ruby on [Rails Security Guide](http://guides.rubyonrails.org/security.html) written by Heiko Webers.
+
 #### Code Execution ####
+While Ruby interpreters provide a code execution model, by default it is turned off. With documentation also scarce it is not sup rising that code execution protection is rarely used in Ruby on Rails applications. 
+
+<!-- Trawl API docs and make sure the SAFE table is true in 1.9.x and what changes may have been made in versions -->
+Definition of the safe levels
+
+$SAFE >= 1
+The environment variables RUBYLIB and RUBYOPT are not processed, and the current directory is not added to the path.
+The command-line options -e, -i, -I, -r, -s, -S, and -x are not allowed.
+Can't start processes from $PATH if any directory in it is world-writable.
+Can't manipulate or chroot to a directory whose name is a tainted string.
+Can't glob tainted strings.
+Can't eval tainted strings.
+Can't load or require a file whose name is a tainted string.
+Can't manipulate or query the status of a file or pipe whose name is a tainted string.
+Can't execute a system command or exec a program from a tainted string.
+Can't pass trap a tainted string.
+
+$SAFE >= 2
+Can't change, make, or remove directories, or use chroot.
+Can't load a file from a world-writable directory.
+Can't load a file from a tainted filename starting with ~.
+Can't use File#chmod , File#chown , File#lstat , File.stat , File#truncate , File.umask , File#flock , IO#ioctl , IO#stat , Kernel#fork , Kernel#syscall , Kernel#trap . Process::setpgid , Process::setsid , Process::setpriority , or Process::egid= .
+Can't handle signals using trap.
+
+$SAFE >= 3
+All objects are created tainted.
+Can't untaint objects.
+
+$SAFE >= 4
+Can't modify a nontainted array, hash, or string.
+Can't modify a global variable.
+Can't access instance variables of nontainted objects.
+Can't change an environment variable.
+Can't close or reopen nontainted files.
+Can't freeze nontainted objects.
+Can't change visibility of methods (private/public/protected).
+Can't make an alias in a nontainted class or module.
+Can't get meta information (such as method or variable lists).
+Can't define, redefine, remove, or undef a method in a nontainted class or module.
+Can't modify Object.
+Can't remove instance variables or constants from nontainted objects.
+Can't manipulate threads, terminate a thread other than the current, or set abort_on_exception.
+Can't have thread local variables.
+Can't raise an exception in a thread with a lower $SAFE value.
+Can't move threads between ThreadGroups.
+Can't invoke exit, exit!, or abort.
+Can load only wrapped files, and can't include modules in nontainted classes and modules.
+Can't convert symbol identifiers to object references.
+Can't write to files or pipes.
+Can't use autoload.
+Can't taint objects.
+
 #### Cryptography ####
+#### User Management ####
 #### Authentication ####
 #### Authorization ####
 #### Configuration Management ####
@@ -223,6 +283,8 @@ This space is reserved for the author of the foreword. We are planning to ask Ch
 #### Data Sources ####
 #### Data Validation ####
 #### Session Management ####
+
+
 #### Error & Exception Management ####
 
 ##Mobile ##
