@@ -1,6 +1,6 @@
 For any help with this manuscript contact mark@curphey.com
 
-# License # 
+# License
 License
 
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
@@ -95,7 +95,7 @@ This space is reserved for the author of the foreword. We are planning to ask Ch
 <!-- Target of 100 pages (hmm…thats wildly optimistic) -->
 ## Code Execution ##
 <!-- Needed for the frameworks section but not sure it fits in here -->
-## Cryptography ## 
+## Cryptography
 ### An Introduction & Brief History ###
 ### Symmetric Key Cryptography (Private Key Cryptography) ###
 ### Asymmetric Key Cryptography (Public Key Cryptography ###)
