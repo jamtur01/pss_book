@@ -1,153 +1,236 @@
+For any help with this manuscript contact mark@curphey.com
+
+# License # 
+License
+
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+
+1. Definitions
+
+"Adaptation" means a work based upon the Work, or upon the Work and other pre-existing works, such as a translation, adaptation, derivative work, arrangement of music or other alterations of a literary or artistic work, or phonogram or performance and includes cinematographic adaptations or any other form in which the Work may be recast, transformed, or adapted including in any form recognizably derived from the original, except that a work that constitutes a Collection will not be considered an Adaptation for the purpose of this License. For the avoidance of doubt, where the Work is a musical work, performance or phonogram, the synchronization of the Work in timed-relation with a moving image ("synching") will be considered an Adaptation for the purpose of this License.
+"Collection" means a collection of literary or artistic works, such as encyclopedias and anthologies, or performances, phonograms or broadcasts, or other works or subject matter other than works listed in Section 1(f) below, which, by reason of the selection and arrangement of their contents, constitute intellectual creations, in which the Work is included in its entirety in unmodified form along with one or more other contributions, each constituting separate and independent works in themselves, which together are assembled into a collective whole. A work that constitutes a Collection will not be considered an Adaptation (as defined above) for the purposes of this License.
+
+"Distribute" means to make available to the public the original and copies of the Work or Adaptation, as appropriate, through sale or other transfer of ownership.
+"Licensor" means the individual, individuals, entity or entities that offer(s) the Work under the terms of this License.
+
+"Original Author" means, in the case of a literary or artistic work, the individual, individuals, entity or entities who created the Work or if no individual or entity can be identified, the publisher; and in addition (i) in the case of a performance the actors, singers, musicians, dancers, and other persons who act, sing, deliver, declaim, play in, interpret or otherwise perform literary or artistic works or expressions of folklore; (ii) in the case of a phonogram the producer being the person or legal entity who first fixes the sounds of a performance or other sounds; and, (iii) in the case of broadcasts, the organization that transmits the broadcast.
+"Work" means the literary and/or artistic work offered under the terms of this License including without limitation any production in the literary, scientific and artistic domain, whatever may be the mode or form of its expression including digital form, such as a book, pamphlet and other writing; a lecture, address, sermon or other work of the same nature; a dramatic or dramatico-musical work; a choreographic work or entertainment in dumb show; a musical composition with or without words; a cinematographic work to which are assimilated works expressed by a process analogous to cinematography; a work of drawing, painting, architecture, sculpture, engraving or lithography; a photographic work to which are assimilated works expressed by a process analogous to photography; a work of applied art; an illustration, map, plan, sketch or three-dimensional work relative to geography, topography, architecture or science; a performance; a broadcast; a phonogram; a compilation of data to the extent it is protected as a copyrightable work; or a work performed by a variety or circus performer to the extent it is not otherwise considered a literary or artistic work.
+
+"You" means an individual or entity exercising rights under this License who has not previously violated the terms of this License with respect to the Work, or who has received express permission from the Licensor to exercise rights under this License despite a previous violation.
+
+"Publicly Perform" means to perform public recitations of the Work and to communicate to the public those public recitations, by any means or process, including by wire or wireless means or public digital performances; to make available to the public Works in such a way that members of the public may access these Works from a place and at a place individually chosen by them; to perform the Work to the public by any means or process and the communication to the public of the performances of the Work, including by public digital performance; to broadcast and rebroadcast the Work by any means including signs, sounds or images.
+
+"Reproduce" means to make copies of the Work by any means including without limitation by sound or visual recordings and the right of fixation and reproducing fixations of the Work, including storage of a protected performance or phonogram in digital form or other electronic medium.
+
+2. Fair Dealing Rights. Nothing in this License is intended to reduce, limit, or restrict any uses free from copyright or rights arising from limitations or exceptions that are provided for in connection with the copyright protection under copyright law or other applicable laws.
+
+3. License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) license to exercise the rights in the Work as stated below:
+
+to Reproduce the Work, to incorporate the Work into one or more Collections, and to Reproduce the Work as incorporated in the Collections;
+to create and Reproduce Adaptations provided that any such Adaptation, including any translation in any medium, takes reasonable steps to clearly label, demarcate or otherwise identify that changes were made to the original Work. For example, a translation could be marked "The original work was translated from English to Spanish," or a modification could indicate "The original work has been modified.";
+to Distribute and Publicly Perform the Work including as incorporated in Collections; and,
+to Distribute and Publicly Perform Adaptations.
+For the avoidance of doubt:
+
+Non-waivable Compulsory License Schemes. In those jurisdictions in which the right to collect royalties through any statutory or compulsory licensing scheme cannot be waived, the Licensor reserves the exclusive right to collect such royalties for any exercise by You of the rights granted under this License;
+Waivable Compulsory License Schemes. In those jurisdictions in which the right to collect royalties through any statutory or compulsory licensing scheme can be waived, the Licensor waives the exclusive right to collect such royalties for any exercise by You of the rights granted under this License; and,
+Voluntary License Schemes. The Licensor waives the right to collect royalties, whether individually or, in the event that the Licensor is a member of a collecting society that administers voluntary licensing schemes, via that society, from any exercise by You of the rights granted under this License.
+The above rights may be exercised in all media and formats whether now known or hereafter devised. The above rights include the right to make such modifications as are technically necessary to exercise the rights in other media and formats. Subject to Section 8(f), all rights not expressly granted by Licensor are hereby reserved.
+
+4. Restrictions. The license granted in Section 3 above is expressly made subject to and limited by the following restrictions:
+
+You may Distribute or Publicly Perform the Work only under the terms of this License. You must include a copy of, or the Uniform Resource Identifier (URI) for, this License with every copy of the Work You Distribute or Publicly Perform. You may not offer or impose any terms on the Work that restrict the terms of this License or the ability of the recipient of the Work to exercise the rights granted to that recipient under the terms of the License. You may not sublicense the Work. You must keep intact all notices that refer to this License and to the disclaimer of warranties with every copy of the Work You Distribute or Publicly Perform. When You Distribute or Publicly Perform the Work, You may not impose any effective technological measures on the Work that restrict the ability of a recipient of the Work from You to exercise the rights granted to that recipient under the terms of the License. This Section 4(a) applies to the Work as incorporated in a Collection, but this does not require the Collection apart from the Work itself to be made subject to the terms of this License. If You create a Collection, upon notice from any Licensor You must, to the extent practicable, remove from the Collection any credit as required by Section 4(b), as requested. If You create an Adaptation, upon notice from any Licensor You must, to the extent practicable, remove from the Adaptation any credit as required by Section 4(b), as requested.
+
+If You Distribute, or Publicly Perform the Work or any Adaptations or Collections, You must, unless a request has been made pursuant to Section 4(a), keep intact all copyright notices for the Work and provide, reasonable to the medium or means You are utilizing: (i) the name of the Original Author (or pseudonym, if applicable) if supplied, and/or if the Original Author and/or Licensor designate another party or parties (e.g., a sponsor institute, publishing entity, journal) for attribution ("Attribution Parties") in Licensor's copyright notice, terms of service or by other reasonable means, the name of such party or parties; (ii) the title of the Work if supplied; (iii) to the extent reasonably practicable, the URI, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work; and (iv) , consistent with Section 3(b), in the case of an Adaptation, a credit identifying the use of the Work in the Adaptation (e.g., "French translation of the Work by Original Author," or "Screenplay based on original Work by Original Author"). The credit required by this Section 4 (b) may be implemented in any reasonable manner; provided, however, that in the case of a Adaptation or Collection, at a minimum such credit will appear, if a credit for all contributing authors of the Adaptation or Collection appears, then as part of these credits and in a manner at least as prominent as the credits for the other contributing authors. For the avoidance of doubt, You may only use the credit required by this Section for the purpose of attribution in the manner set out above and, by exercising Your rights under this License, You may not implicitly or explicitly assert or imply any connection with, sponsorship or endorsement by the Original Author, Licensor and/or Attribution Parties, as appropriate, of You or Your use of the Work, without the separate, express prior written permission of the Original Author, Licensor and/or Attribution Parties.
+Except as otherwise agreed in writing by the Licensor or as may be otherwise permitted by applicable law, if You Reproduce, Distribute or Publicly Perform the Work either by itself or as part of any Adaptations or Collections, You must not distort, mutilate, modify or take other derogatory action in relation to the Work which would be prejudicial to the Original Author's honor or reputation. Licensor agrees that in those jurisdictions (e.g. Japan), in which any exercise of the right granted in Section 3(b) of this License (the right to make Adaptations) would be deemed to be a distortion, mutilation, modification or other derogatory action prejudicial to the Original Author's honor and reputation, the Licensor will waive or not assert, as appropriate, this Section, to the fullest extent permitted by the applicable national law, to enable You to reasonably exercise Your right under Section 3(b) of this License (right to make Adaptations) but not otherwise.
+5. Representations, Warranties and Disclaimer
+
+UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
+
+6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. Termination
+
+This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License. Individuals or entities who have received Adaptations or Collections from You under this License, however, will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses. Sections 1, 2, 5, 6, 7, and 8 will survive any termination of this License.
+
+Subject to the above terms and conditions, the license granted here is perpetual (for the duration of the applicable copyright in the Work). Notwithstanding the above, Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License (or any other license that has been, or is required to be, granted under the terms of this License), and this License will continue in full force and effect unless terminated as stated above.
+
+8. Miscellaneous
+
+Each time You Distribute or Publicly Perform the Work or a Collection, the Licensor offers to the recipient a license to the Work on the same terms and conditions as the license granted to You under this License.
+
+Each time You Distribute or Publicly Perform an Adaptation, Licensor offers to the recipient a license to the original Work on the same terms and conditions as the license granted to You under this License.
+
+If any provision of this License is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this License, and without further action by the parties to this agreement, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+
+No term or provision of this License shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.
+
+This License constitutes the entire agreement between the parties with respect to the Work licensed here. There are no understandings, agreements or representations with respect to the Work not specified here. Licensor shall not be bound by any additional provisions that may appear in any communication from You. This License may not be modified without the mutual written agreement of the Licensor and You.
+
+The rights granted under, and the subject matter referenced, in this License were drafted utilizing the terminology of the Berne Convention for the Protection of Literary and Artistic Works (as amended on September 28, 1979), the Rome Convention of 1961, the WIPO Copyright Treaty of 1996, the WIPO Performances and Phonograms Treaty of 1996 and the Universal Copyright Convention (as revised on July 24, 1971). These rights and subject matter take effect in the relevant jurisdiction in which the License terms are sought to be enforced according to the corresponding provisions of the implementation of those treaty provisions in the applicable national law. If the standard suite of rights granted under applicable copyright law includes additional rights not granted under this License, such additional rights are deemed to be included in the License; this License is not intended to restrict the license of any rights under applicable law.
+
+
 # Table of Contents #
 <!-- This will be auto-generated by pandoc or similar -->
 
 #Foreword #
 <!-- target 3 pages -->
-This space is reserved for the author of the foreword. Chad Fowler ?
+This space is reserved for the author of the foreword. We are planning to ask Chad Fowler (or another well respected developer)
 #Introduction #
-<!-- target 40 pages -->
-For a long time the information security “profession” has been owned by the networking, operating systems and policy specialist.  The evolution of the profession itself mirrors the development of the Internet from a mainly network centric proposition to a cloud driven platform.  Today we have a much more mature understanding of how we protect networks with routers, firewalls and Network Intrusion prevention systems. The need to lock down/harden the operating systems we deploy and then ensure that we strategically protect our systems with Security policies, standards and procedures that reflect the risk acceptance level of an organization or entity.
-
-While the rest of the information security profession has matured, the area of software security has only begun to be addressed. The traditional security wrapper around software security has largely been driven by Network / Operations and policy specialists who do not understand how applications are built in the real world. As a result the majority of current software security standards ad policies are not relevant to the fast moving and changing software development practices. 
-
-There is now a definite need for the Software Engineering teams to help bridge this gap and take the lead in defining and maturing security requirements.
-
-This section sets the outline for why this book matters to software developers and why security is relevant to any business.  The audience will learn to understand why attributes such as trust, confidence and safety of business solutions are even more crucial in today's online environment.
-
-**Why does software security matter to businesses ?**
-
-As the world moves further down the path of an on line economy, the requirement for faster deployments of larger more complex interlinked systems is becoming the norm. Forrester predicts that just in the US, online retail sales will grow at a 10% compounded annual growth rate (CAGR) between 2010 – 2015, reaching an expected $279 billion from $157billion in 2009. This figure does not include the volume of b2b transactions and intangible values relating to the defense and utility use of the internet to transmit data.
-
-In the commercial environment, trade and security are not mutually exclusive.  People and entities trade with each other based on many factors including trust, confidence and security.  If consumers and organizations do not feel that they trust the entity they are seeking to purchase goods or services from they will not do business with them. 
-
-( --- reference from RSA down load - online security inspires confidence ------ do i need to para phrase or can i just leave sections from the report in the book ? )
-
-" In one survey after another regarding the topic, security is most often cited as the primary reason some consumers are hesitant to shop online; they are afraid of submitting personal and financial information over the Internet.
-Consumer confidence can be directly attributed to increased transactions. In order to gain that confidence, providers of an online website and portal – whether offered through a retailer, bank, or healthcare organization – must consider security a key driver to adoption.
-
-To demonstrate, one major U.K. bank that deployed strong authentication to their online users reported a 20 percent increase in the number of transactions performed online only one month after the system was launched.
-RSA found that consumer confidence and the willingness to transact online was clearly correlated. When consumers were asked, in general, how stronger security would impact their confidence in transacting online, 92 percent of consumers stated they would be more confident, with 53 percent stating they would be significantly more confident and 39 percent somewhat more confident.
-Among each region surveyed, the impact of stronger security on confidence seemed to resonate most among respondents from Latin America where 74 percent stated they would be “ significantly” more confident. This is much higher compared to other regions; among respondents, 42 percent in the U.S., 50 percent in Australia, and 46 percent in Asia stated they would be “significantly” more confident. "
+<!-- This section only to be edited by Bill Hau -->
+<!-- target 20 pages -->
+## A Very Brief History of Computer Security ##
+## The Economics of Insecure Software Today ##
+## Security as a Software Quality Attribute ##
+## Understanding the Attackers ##
+## Understand How Attacks Happen ##
 
 
-**The reality of Software security **
-
-For a long time consumers have had an implied trust that any one trading on the internet have the best security built in from the get go. 
-
-The authors experience and recent events from Hacktivist groups know this " ain't necessarily so ."
-
-High profile security breaches have been well documented in the press and the Ponemon Institute, a research organization in Traverse City, Michigan has estimated the cost of the 5 most expensive breaches in a report titled " bill to get actual name and rewrite section http://www.dataexpress.com/blog/?p=89 5 Most Expensive Data Breaches – so far May 10, 2011 | Author Wilson B. (Sonny) Snipes
-"
-
-5. US Veterans Affairs – $25-$30 million – the names, birth dates, and Social Security numbers of 17.5 million military veterans and personnel were stolen in 2006 from a laptop that a Department of Veterans Affairs employee had taken home. The costs to the VA included money for running call centers, sending out mailings, and paying for a year of a credit-monitoring service for victims. 
-
-4. Heartland Payment Systems – $140 million – Heartland Payment Systems, a payment processor based in Princeton, N.J., was the victim of a major cyber attack in 2008.  Criminals installed spying software on the company’s computer network and stole the numbers of as many as 100 million credit and debit cards. Albert Gonzales, a hacker from Miami, was accused of playing a critical role in the Heartland hack, as well as other massive data breaches of companies including retailer TJX, 7-Eleven, Inc., and the grocery chain Hannaford Bros. Co. Inc. In 2010, Gonzales was sentenced to 20 years in federal prison. The company paid about $140 million in fines and settlements but recovered tens of millions through insurance, Business Insurance reports.
-
-3. TJX – $256 million or more - the Framingham, Mass., retailer that owns national chains including TJ Maxx and Marshalls, estimated that a 2007 data breach would cost the company about $25 million. But in the end, the total cost was at least 10 times as high. Cyber criminals took more than 45 million credit and debit card numbers, some of which were used later to buy millions of dollars in electronics from Wal-Mart and elsewhere. Mr. Gonzales, who played a major role in the Heartland hack, was linked to this cyber attack as well.
-
-2. and 1. The surprise - who would have thought that the most expensive would be a tie?  I would have bet money that the most expensive would have been a large financial institution, or money changer.  Nope, turns out the tie is between an entertainment company and an advertising company.
-Epsilon – to be determined – in March 2011, hackers stole millions of names and e-mail addresses from the Dallas-based marketing firm. Epsilon handles e-mail lists for major retailers
-and banks like Best Buy, JPMorgan, TiVo, Walgreen, and Kroger. A study by CyberFactors, a cyber risk analytics company, estimates that the breach could cost between $225 million and $4 billion, depending on what happens with the stolen data, Business Wire reports. Mr. Ponemon offers a lower estimate: at least $100 million, with most of the lost costs going toward losing customers due to a damaged reputation. Ponemon says that because the stolen data was e-mail information, the costs won’t be as high as if financial information had
-been stolen.
-
-Sony – to be determined – the Sony data breach, which exposed information from more than 100 million user accounts in April, could prove to be the mostly costly data breach of all time. Hackers obtained personal information, including credit, debit, and bank account numbers in some instances, of PlayStation Network users and Sony Online Entertainment users. After discovering there had been a breach, Sony shut down both networks temporarily. Ponemon estimates that the breach could cost Sony and credit card issuers up to a total of $2 billion.
-Relative to their overall revenues and assets, the loses here are big, yet not staggering.  Nobody went out of business.  The thought to ponder is “what would it cost my company were we to lose sensitive information?”  
----------- end of section that needs to be reworked -----
-
-These reported breaches represent only a small percentage of the actual breaches that are occurring.  In the authors' experience , when organizations learn of breaches their primary concern is to fix the issue but not prosecute. Hence, many breaches are never publicly disclosed.  The organizations involved wish to avoid the bad publicity this would entail and in more cases than not, organizations do not have enough forensic evidence to enable a sucessful prosecution in the first place.
-
-The need to secure organizations' online presence really came to the forefront of business issues in 2011.  The Hacktivism movement has changed the risk profile of theoretical attacks on organizations to actual attacks. As organizations rush to develop mobile applications, cloud solutions and build a social presence, the problem has only increased a thousand fold. In the online world it is the applications that software developers build that are the targets on the front line.
-
-
-**Where is the disconnect? I thought we had built secure applications!!
-**
-
-The disconnect can be summarized as follows
-
-*The business not understanding and defining security requirements or the development teams not understanding how to build secure applications in the absence of explicit security requirements*
-
-Most businesses have some form of software development process to build software applications from requirements, architecture and design, development, testing and deployment.  
-
-When you overlay the security process onto the software development process the majority of organizations however have very immature, antiquated and inefficient processes in place. 
-
-The typical use case is that businesses will test for security as part of the testing phase or before they go into production. They will engage with an internal or external penetration testing company to “ensure” that the designed system does not have any significant security issues before promoting to the live environment.  
-
-The business may decide to test the application on a yearly basis or on major upgrades dependent on legal and regulatory requirements. Each year the testers will find a similiar set of issues or new ones for the development team to fix. 
-Nowhere in this process flow does the business define the security requirements for the application so the developers can build against those requirements. Furthermore, some organizations may state they have defined security requirements but the documentation is at such a high level and non-prescriptive that it means nothing to a software developer.  It is like a building Fort Knox without a plan or architecture. This approach to security is very expensive and does not fix the source of the issue.
-
-There are many different models and processes on how to build security into the software development life cycle, the later chapters will touch on these in more detail. 
-
-## Security as a software quality attribute
-
-## Know your enemy ##
-In order for developers to protect the applications which they build they need to have an understanding of who and what they are trying to defend against. This section will group the type of hackers there are and explain why they want to attack they systems they build.
-
-The ancient Chinese General Sun Tzu's teaches us that one must "know your enemy" before going into battle.  If "you know your enemy and know yourself, you need not fear the result of a hundred battles."  Sun Tzu also cautioned, "If you know yourself but not the enemy, for every victory gained you will also suffer a defeat."
-
-The majority of software developers believe that people are well intentioned and would not look to exploit bugs or architectural flaws in systems for self gain. To protect the code, developers need to change their perspective and understanding of malicious users.
-
-These malicious users can be grouped into many different categories, here we have chosen to group them by level of sophistication starting with the least 
-
-Script kiddies - these are users that search the internet for hacking tools to attack targets on the internet. They for the most part are unable to script their own attacks and do not fully understand the technical details of the attack they launch using the tools.  The attacks are very verbose and noisy as a result. These motivation behind such attackers are for attention and recognition amongst their "peers" and in the press.( expand with examples )
-
-Hackitvist - this group of users came to prominence in 2011, they attack commercial and government organizations on the internet for a political or social cause.  The techniques used can be a combination of tool and custom script bases depending on the attack they are trying to execute.  In the majority of cases once these groups publicly announce that they are going to hack a victim and release confidential data, they already have.
-
-Professional Hackers - these users have a higher level of technical skill in breaching computer systems.  The motive normally is financial and it can be for direct self gain or provision of services to their customers. These could be corporations or individuals looking to obtain confidential data from design plans and new production launches through to financial data to gain competitive advantage.  99% of organizations targeted by professional hackers will not know if and when they have been breached. ( Expand with examples )
-
-Foreign Countries - while these are not individual users we have grouped them as such here as the behavioral patterns matches them acting as such.  This group have the most resources to devote to offensive or defensive capabilities. Certain countries have a deeper and more advanced capability than others, not that any country would publicly admit to this. The motivation here can be for commercial , military and diplomatic gain. Again here the majority of organizations and countries would not know if they have been breached. ( Expand with Examples )
-
-
-## Know the attack vectors
-To be able to protect your applications you need to know how they will be attacked. This section will describe the most common attack vectors so developers understand how to architect and code defend against them.
-
-Social Engineering - the weakest link in the majority of most systems are the people that use, operate, maintain, develop and support the systems.  Social engineering attacks target the human component of the system to illicet sensitive data such as user name and passwords to gain access to the systems or to harvest enough information to create a plan of attack. The attack can be perpetrated by 
-
-Network attacks
-
-Web based attacks
-
-Mobile based attacks
-
-De compiling the application 
-Target of 60 pages
 
 # Security Concepts #
-<!-- Target of 100 pages -->
-## Cryptography (Data Security in Transport and Storage) ## 
-## Code Execution & Permissions ##
+<!-- This section only to be edited by Mark Curphey -->
+<!--  Intro, goals if the section etc -->
+<!-- Target of 100 pages (hmm…thats wildly optimistic) -->
+## Code Execution ##
 <!-- Needed for the frameworks section but not sure it fits in here -->
+## Cryptography ## 
+### An Introduction & Brief History ###
+### Symmetric Key Cryptography (Private Key Cryptography) ###
+### Asymmetric Key Cryptography (Public Key Cryptography ###)
+### Digest Algorithms (Hash Functions ###) ###
+### Digital Signatures, Non-Repudiation & MAC's ###
+### Digital Certificates, SSL & PKI ###
+### PGP & S/MIME ###
+### The Promise of Quantum Cryptography ###
+### Key Management ###
+### Cryptographic Standards ###
+### Why Cryptography Often Fails ###
+### A Word About Crypto Snake-Oil ###
+
+
 ## Authentication ##
+### User Authentication ###
+### Entity Authentication ###
+### Multi-Factor Authentication ###
+
 ## Authorization ##
+### Computer Science Models & Design Principles ###
+#### Clark-Wilson ####
+#### Biba ####
+### Roles Based Authorization ###
+### Claims Based Authorization ###
+
 ## Configuration Management ##
+### Networks Security ###
+### Host Security ###
+
 ## Audit & Logging ##
+
 ## Data Validation ##
+
 ## Session Management ##
-## Error Handling ##
+
+## Error & Exception Management ##
+
 
 # Development Technologies #
-<!-- Target of 80 pages-->
+
+<!-- Target of ?? pages-->
+
 ## Fundamentals ##
+<!-- This section only to be edited by Mark Curphey -->
+
 ### HTTP ###
 ### SSL ###
 ### HTML5 ###
 
 ## Development Frameworks & Languages ##
 ### C CGI ###
+<!-- This section only to be edited by TBD -->
+#### Code Execution ####
+#### Cryptography ####
+#### Authentication ####
+#### Authorization ####
+#### Configuration Management ####
+#### Auditing & Logging ####
+#### Data Sources ####
+#### Data Validation ####
+#### Session Management ####
+#### Error & Exception Management ####
+
 ### Java ###
+<!-- This section only to be edited by Pravir Chandra --> 
+#### Code Execution ####
+#### Cryptography ####
+#### Authentication ####
+#### Authorization ####
+#### Configuration Management ####
+#### Auditing & Logging ####
+#### Data Sources ####
+#### Data Validation ####
+#### Session Management ####
+#### Error & Exception Management ####
+
 ### .NET ###
+<!-- This section only to be edited by David Rook -->
+#### Code Execution ####
+#### Cryptography ####
+#### Authentication ####
+#### Authorization ####
+#### Configuration Management ####
+#### Auditing & Logging ####
+#### Data Sources ####
+#### Data Validation ####
+#### Session Management ####
+#### Error & Exception Management ####
+
 ### JavaScript ###
+<!-- This section only to be edited by Gareth Hayes -->
+#### Code Execution ####
+#### Cryptography ####
+#### Authentication ####
+#### Authorization ####
+#### Configuration Management ####
+#### Auditing & Logging ####
+#### Data Sources ####
+#### Data Validation ####
+#### Session Management ####
+#### Error & Exception Management ####
+
 ### PHP ###
+<!-- This section only to be edited by Mike DeLibero -->
+#### Code Execution ####
+#### Cryptography ####
+#### Authentication ####
+#### Authorization ####
+#### Configuration Management ####
+#### Auditing & Logging ####
+#### Data Sources ####
+#### Data Validation ####
+#### Session Management ####
+#### Error & Exception Management ####
+
 ### Ruby on Rails ###
+<!-- This section only to be edited by Mark Curphey -->
+#### Code Execution ####
+#### Cryptography ####
+#### Authentication ####
+#### Authorization ####
+#### Configuration Management ####
+#### Auditing & Logging ####
+#### Data Sources ####
+#### Data Validation ####
+#### Session Management ####
+#### Error & Exception Management ####
 
 ##Mobile ##
+<!-- This section only to be edited by Dan Cornell -->
 ### iOS ###
 ### Android ###
 ### HTML5 (Phone Gap, Sencha etc.))
 
-## Cloud ##
-### AWS ###
-### Heroku ###
-### Windows Azure ##
 
 ## Identity Technologies ##
 ### SAML ###
@@ -198,12 +281,9 @@ Basic overview of the levels and how they work including optional things.
 ### Cyber-Insurance ###
 ### Security Requirements ###
 ### Design & Architecture ###
-### DevOps ###
 ### Metrics & Measurement ###
 ### Sustaining Software ###
 ### Test Automation ###
-
-### Tracking Vulnerabilities & Security Patches ###
 
 ## Tools ##
 ### A reference model for end to end tools ###
@@ -220,6 +300,22 @@ Basic overview of the levels and how they work including optional things.
 ### Debuggers ###
 ### Continuous Integration & Deployment ###
 ### Defect Management ###
+
+# DevOps - Running Secure Systems #
+<!--  Pure TBD -->
+
+## Network Security ##
+
+## Host Security ##
+
+## Cloud ##
+### AWS ###
+### Heroku ###
+### RackSpace ###
+
+## Monitoring ##
+
+
 
 # Engineering & Architecture Scenarios #
 <!-- Target of 200 pages -->
