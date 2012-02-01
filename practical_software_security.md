@@ -222,7 +222,7 @@ This space is reserved for the author of the foreword. We are planning to ask Ch
 This section is based on the official Ruby on [Rails Security Guide](http://guides.rubyonrails.org/security.html) written by Heiko Webers.
 
 #### Code Execution ####
-While Ruby interpreters provide a code execution model, by default it is turned off. With documentation also scarce it is not sup rising that code execution protection is rarely used in Ruby on Rails applications. 
+While Ruby interpreters provide a code execution model, by default it is turned off. With documentation scarce it is not suprising that code execution protection is rarely used in Ruby on Rails applications. 
 
 <!-- Trawl API docs and make sure the SAFE table is true in 1.9.x and what changes may have been made in versions -->
 Definition of the safe levels
@@ -275,9 +275,17 @@ Can't use autoload.
 Can't taint objects.
 
 #### Cryptography ####
+<!-- OpenSSL and its wrapper libs -->
+[Crypt](http://crypt.rubyforge.org/index.html) ?
+[EZCyrpto](http://ezcrypto.rubyforge.org/) ?
+[Gibberish](https://github.com/mdp/gibberish) ?
+
 #### User Management ####
+<!-- Focus on Devise-->
 #### Authentication ####
+<!-- Focus on OmniAuth ?-->
 #### Authorization ####
+<!-- Mass assignment, cancan, declarative auth etc-->
 #### Configuration Management ####
 #### Auditing & Logging ####
 #### Data Sources ####
