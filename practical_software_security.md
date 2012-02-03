@@ -79,7 +79,53 @@ The rights granted under, and the subject matter referenced, in this License wer
 <!-- target 3 pages -->
 This space is reserved for the author of the foreword. We are planning to ask Chad Fowler (or another well respected developer)
 #Introduction #
-<!-- This section only to be edited by Bill Hau -->
+Having been involved in software security and leading software engineering teams for many years, I wanted to have a book like this for a long time. If truth be told I had hoped someone else would write it. I have contributed to books before and have the utmost respect authors and editors having witnessed the amount of sheer hard work that goes into producing a great book. At the end of 2010 I gave up waiting, 'bit the bullet' and decided to lead an effort to create it myself. So what is so special about this book?
+
+This is a book about software security. It is a book about why you should care and what could happen if you don't. It is a book that will teach you security concept's and techniques, it will describe the security that is available from development frameworks and technologies, how it works and how to use it appropriately. It is also a book about how to create a software security program and how to implement specific security engineering scenarios. While it is true that none of that material is virgin territory, this book is different because it is not written for security people (although we hope they read it and enjoy it as well). This book is written for software developers and software development managers. The premise is that the majority of the security industry (particularly those that write books) is comprised of so called white-hat hackers or security researchers that are focused on breaking things. While extremely valuable and certainly fascinating, the security industry in general views the world through its own lens and has its own very distinct culture.
+
+As a responsible development manager I have of course always been concerned about security; protecting the users and my company data is a no-brainer but being pragmatic I had a list of 'must haves' and a list of 'nice to haves' to deal with. On my list of 'must haves' is always shipping features, performance, reliability, maintainability, accessibility and then a long list of 'nice to haves'. In reality of course I rarely get to the 'nice to haves'. If we had to build a continuum most developers will rank their priorities in the following order: <!-- get Wilanders survey data-->
+
+Features, Performance, Reliability, Maintainability, Accessibility, Security + 'nice to haves'
+
+Many security professionals of course are simply horrified by this and work hard trying on a noble cause to drive the priority to the very far left of the continuum. This book is for people who believe that security is a 'must have' and should always be to the left of the cutoff line but probably in the order described above. Security is critically important but at the end of the day is one of several critically important attributes that must be managed. This book is for software developers and software development managers who want to learn how to implement software security as effectively, efficiently and  as painlessly as possible into their development process.
+
+The book is opinionated in case you had not  already gathered from the introduction so far. For instance we believe that developers should be the primary software security experts and responsible for implementing security in their own code and that security should be an integral part of a development process and not a parallel one run by a security team. Opinions like this are deep rooted in the advice and direction in all sections of the book. The book has been designed to be a complete book on software security but is certainly not exhaustive. That means if you have only one book on the topic on your shelf (or Kindle or iPad) then we believe it should be this one.
+
+<!-- need to add comments about bias towards modern web / mobile apps and not legacy stuff -->
+
+After this introduction the book is organized into meaningful sections:
+
+**The History, Politics & Economics of Insecure Software** describes why you should care and what could happen if you don't. If you are a developer you should read this section to understand who hackers are, what they do, how they operate and read examples about what has happened as a result of their activity. If you need to convince your development manager that you need to take action you can use the true stories and facts in this section to support your case. If you are a development manager you will likely want to focus on the facts to support your call to action and justify the investment you will want to make. 
+
+**Security Concepts** is a solid grounding in security concepts, techniques, patterns and practices. This section provides you with the understanding that will help you make better informed decisions when choosing how to implement security in your own software; and trust us when we say upfront that you will be faced with many choices at many times. This section will help you make the right choice and will help you distinguish security snake-oil from the myriad of people offering it. 
+
+**Development Technologies** describes what security is available from popular development frameworks like Java, .NET, Ruby on Rails and describes how to use that security technology appropriately. It also covers key security technologies like authentication and authorization protocols that are critical in modern applications as well as tried and tested 3rd party libraries.
+ 
+**A Practical Software Security Program** is a blueprint for infusing security into your own development process. It is organized by People, Process, Technology and Operations and covers everything you need to know from planning, organizing, educating, implementing and operating your own program. It describes how to infuse security into your existing process (with an emphasis on Agile), how to work with outsourcers, 3rd parties and auditors and how to implement a security tool chain into your process (with an emphasis on leveraging established developer tools). It covers DevOps and how to security manage your dev, test and production environments.
+
+**Engineering Scenarios** is a set of implementation guidance on how to implement common engineering scenarios that most developers and development teams face on a regular basis. It provides prescriptive guidance on a variety of topics like how to securely connect your application to a 3rd party RESTful interface or how to provide federated authentication to your users.
+
+While the amount of content might seem daunting you should be rest assured that you are not expected to memorize it. This book was designed to be both part reading book and part reference book. No normal human could be an expert in all of the topics in this book. We have been lucky enough to surround ourselves by talented contributing authors who are subject matter experts in specific topics. Their work, particularly in the **Development Technologies** section is invaluable. 
+
+Finally we are lucky to be working with O'Reilly whose progressive approach to publishing has meant that we are able to publish the book online under a Creative Commons license as well as in print and other electronic distribution. We have set up a software security community online called Seconauts (http://www.seconauts.com) for like-minded developers to discuss topics and share knowledge. If you are reading the book for free online and find value in it please consider purchasing a copy. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# The History & Economics of Insecure Software #
+<!-- This section only to be edited by Mark Curphey-->
 <!-- target 20 pages -->
 ## A Very Brief History of Computer Security ##
 ## The Economics of Insecure Software Today ##
@@ -312,7 +358,7 @@ Can't taint objects.
 ### WS * ###
 ### REST ###
 
-# Building a Software Security Program#
+# A Practical Software Security Program#
 <!-- target of 100 pages -->
 This section of the book provides you with a blue-print to build and manage your own software security program that we have called the *Practical Software Security Framework*. The term framework is of course heavily overloaded in the software world but if we consider that any framework is a collection of organized components that work together then the acronym seems to fit well. While the framework can certainly be adopted 'soup to nuts' and we think that this is a good 'north star' for most teams to work towards, we recognize that most readers will want to take individuals parts of the framework and implement them incrementally, customizing them to suit their needs.  
 
@@ -323,17 +369,8 @@ _____
 
 The and start to build their program incrementally, others may want to use the framework as Starting with requirements, design & planning and a description of how to implement security into application architecture we will then cover secure coding, testing and QA, ‘DevOps’, security standards and regulations, education and awareness, dealing with 3rd parties like vendors partners and auditors and finally outsourcing. The section will also discuss tools for security including the obvious security code analysis type tools but also specifically focusing on adapting common development tools like Behavior Driven Development tools towards security tasks. The section will end with detailed description on how security fits into modern agile and test driven development practices and how security metrics (like “Coder Metrics”) can be used to drive continuous improvement.
 
-## The Practical Software Security Framework in a Nutshell ##
-### Overview ###
+## A Practical Software Security Program in a Nutshell ##
 This section will describe the components of the framework, how they work together and how they can be applied in practice. It's the 100 level of description!
-### Adopting the Framework ###
-Discussion about picking up parts incrementally, choosing high value low effort parts etc. 
-
-### Levels ###
-Basic overview of the levels and how they work including optional things. 
-#### Basic ####
-#### Progressive ####
-#### Advanced ####
 
 
 ## People ##
@@ -371,23 +408,23 @@ Basic overview of the levels and how they work including optional things.
 ### Continuous Integration & Deployment ###
 ### Defect Management ###
 
-# DevOps - Running Secure Systems #
+## DevOps ##
 <!--  Pure TBD -->
 
-## Network Security ##
+### Network Security ###
 
-## Host Security ##
+### Host Security ###
 
-## Cloud ##
-### AWS ###
-### Heroku ###
-### RackSpace ###
+### Cloud ###
+#### AWS ####
+#### Heroku ####
+#### RackSpace ####
 
-## Monitoring ##
+### Monitoring ###
 
 
 
-# Engineering & Architecture Scenarios #
+# Engineering Scenarios #
 <!-- Target of 200 pages -->
 ## Protecting Software from Reverse Engineering ##
 ## Managing Sensitive Data ##
